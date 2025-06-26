@@ -9,6 +9,8 @@ body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   background-color: #f5f3e9;
   color: #333;
+  padding-top: 0 !important;
+  margin-top: 0 !important;
 }
 
 .section-title {
